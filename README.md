@@ -13,6 +13,7 @@ My study focus on:
 If you have any questions, I am available at ivchenko.a.v@phystech.edu
 
 I will update this projects with new papers and data.
+In a few days I will finish the text of my PhD thesisis and reorganize the code.
 
 
 1. A. V. Ivchenko, P. A. Kononyuk, A. V. Dvorkovich and L. A. Antiufrieva, "Study on the Assessment of the Quality of Experience of Streaming Video," 2020 Systems of Signal Synchronization, Generating and Processing in Telecommunications (SYNCHROINFO), Svetlogorsk, Russia, 2020, pp. 1-12, doi: 10.1109/SYNCHROINFO49631.2020.9166092.

@@ -21,7 +21,7 @@ https://ieeexplore.ieee.org/document/9166092
 
 
 
-My initian study based on Wateloo SQoE-III database, the most powerfull and correct at the 2019.
+My initial study based on Wateloo SQoE-III database, the most powerfull and correct at the 2019.
 
 Zhengfang Duanmu, Abdul Rehman, Zhou Wang. A Quality-of-Experience Database for Adaptive Video Streaming
 https://ece.uwaterloo.ca/~zduanmu/tbc2018qoe/
